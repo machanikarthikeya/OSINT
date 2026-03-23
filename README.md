@@ -7,7 +7,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
 
 This list is to help all of those who are into Cyber Threat Intellience (CTI), threat hunting, or OSINT. From beginners to advanced. 
 
-Happy hacking and hunting 🧙‍♂️
+Happy Hacking and Hunting [HHH]()
 
 ## 📖 Table of Contents
 
