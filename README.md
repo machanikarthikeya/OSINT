@@ -11,8 +11,8 @@ Happy hacking and hunting 🧙‍♂️
 
 ## 📖 Table of Contents
 
- - [General Search](#-general-search)
- - [Google Dorks](#-google-dorks-tools)
+A --> [General Search](#-general-search)
+B --> [Google Dorks](#-google-dorks-tools)
  - [Main National Search Engines](#-main-national-search-engines)
  - [Meta Search](#-meta-search)
  - [Privacy Focused Search Engines](#-privacy-focused-search-engines)
